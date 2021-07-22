@@ -151,7 +151,7 @@ Builder.load_string(
         id: icon_settings
         opacity: 0
         opposite_colors: True
-        icon: "cog"
+        icon: ""
         pos_hint: {"center_y": .5}
 
 
